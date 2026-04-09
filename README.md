@@ -145,3 +145,35 @@ Understanding these factors can help businesses design better customer retention
 ---
 
 # Project Structure
+
+customer-churn-prediction
+│
+├── Customer_Churn_Prediction.ipynb
+├── churn_model.pkl
+├── requirements.txt
+└── README.md
+
+
+---
+
+# Future Improvements
+
+Possible improvements for this project include:
+
+- Hyperparameter tuning for better performance
+- Model explainability using SHAP
+- Building a Streamlit web app for churn prediction
+- Deploying the model as an API
+
+---
+
+# Author
+
+Hamid Raza  
+BCA Student | Aspiring AI/ML Engineer  
+
+GitHub  
+https://github.com/ShaikhHamidRaza
+
+LinkedIn  
+https://linkedin.com/in/shaikhhamidraza
